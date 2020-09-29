@@ -5,6 +5,7 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pywin32.svg)](https://pypi.org/project/pywin32)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/pywin32.svg)](https://pypi.org/project/pywin32)
 [![License - PSF-2.0](https://img.shields.io/badge/license-PSF--2.0-9400d3.svg)](https://spdx.org/licenses/PSF-2.0.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjweaddyet%2Fpywin32.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjweaddyet%2Fpywin32?ref=badge_shield)
 
 -----
 
@@ -98,3 +99,7 @@ to form a checklist so mhammond doesn't forget what to do :)
   number).
 
 * Send mail to python-win32
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjweaddyet%2Fpywin32.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjweaddyet%2Fpywin32?ref=badge_large)
